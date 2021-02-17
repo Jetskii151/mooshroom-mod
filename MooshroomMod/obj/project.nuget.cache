@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+22iT7Yx3YIS3Zs87AX+M/aw5WmxkVaBevTNtkNd+8dbIm8PYaQBdAGzf3z0CqvSDQ+s4K3fNetc5HFisw4vSQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bisal\\OneDrive\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\MooshroomMod\\MooshroomMod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bisal\\.nuget\\packages\\tmodloader.codeassist\\0.1.1\\tmodloader.codeassist.0.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

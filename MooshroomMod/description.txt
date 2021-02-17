@@ -1,0 +1,7 @@
+MooshroomMod is a work in progress mod about Mooshroom items
+This is my first mod so dont expect much
+
+------------------------------------------------------------
+
+Mage:
+Mooshroom Spell Book

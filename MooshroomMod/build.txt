@@ -1,0 +1,3 @@
+displayName = MooshroomMod
+author = SpectreChromeE
+version = 0.1
